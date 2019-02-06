@@ -1,0 +1,2345 @@
+[
+  {
+    "id": 1,
+    "name": "Affinity Sliding",
+    "maxRank": 1,
+    "gemLevel": 2,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases affinity by 30% for a short time after sliding."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Agitator",
+    "maxRank": 5,
+    "gemLevel": 2,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "While active, grants attack +4 and increases affinity by 3%."
+      },
+      {
+        "rank": 2,
+        "desc": "While active, grants attack +8 and increases affinity by 6%."
+      },
+      {
+        "rank": 3,
+        "desc": "While active, grants attack +12 and increases affinity by 9%."
+      },
+      {
+        "rank": 4,
+        "desc": "While active, grants attack +16 and increases affinity by 12%."
+      },
+      {
+        "rank": 5,
+        "desc": "While active, grants attack +20 and increases affinity by 15%."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Airborne",
+    "maxRank": 1,
+    "gemLevel": 2,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Jumping attack power 10%"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Aquatic Expert",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Prevents water from slowing movements."
+      },
+      {
+        "rank": 2,
+        "desc": "Prevents water from slowing movements and improves evasion while in water."
+      },
+      {
+        "rank": 3,
+        "desc": "Prevents water from slowing movements and greatly improves evasion while in water."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Artillery",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases power of each attack by 10% and reduces Wyvern's Fire cooldown by 15%."
+      },
+      {
+        "rank": 2,
+        "desc": "Increases power of each attack by 20% and reduces Wyvern's Fire cooldown by 30%."
+      },
+      {
+        "rank": 3,
+        "desc": "Increases power of each attack by 30% and reduces Wyvern's Fire cooldown by 50%."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Attack Boost",
+    "maxRank": 7,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Attack +3"
+      },
+      {
+        "rank": 2,
+        "desc": "Attack +6"
+      },
+      {
+        "rank": 3,
+        "desc": "Attack +9"
+      },
+      {
+        "rank": 4,
+        "desc": "Attack +12 Affinity +5%"
+      },
+      {
+        "rank": 5,
+        "desc": "Attack +15 Affinity +5%"
+      },
+      {
+        "rank": 6,
+        "desc": "Attack +18 Affinity +5%"
+      },
+      {
+        "rank": 7,
+        "desc": "Attack +21 Affinity +5%"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "BBQ Master",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Makes it easier to cook well-done steaks."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Blast Attack",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Blast buildup +5% Bonus: +10"
+      },
+      {
+        "rank": 2,
+        "desc": "Blast buildup +10% Bonus: +10"
+      },
+      {
+        "rank": 3,
+        "desc": "Blast buildup +20% Bonus: +10"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Blast Functionality",
+    "maxRank": 1,
+    "gemLevel": 3,
+    "charmRank": 0,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Unknown"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Blast Resistance",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Delays blastblight and reduces blast damage."
+      },
+      {
+        "rank": 2,
+        "desc": "Greatly delays blastblight and greatly reduces blast damage."
+      },
+      {
+        "rank": 3,
+        "desc": "Prevents blastblight."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Bleeding Resistance",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Reduces damage while bleeding."
+      },
+      {
+        "rank": 2,
+        "desc": "Greatly reduces damage while bleeding."
+      },
+      {
+        "rank": 3,
+        "desc": "Prevents bleeding."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Blight Resistance",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Reduces the duration of all elemental blights by 30%."
+      },
+      {
+        "rank": 2,
+        "desc": "Reduces the duration of all elemental blights by 60%."
+      },
+      {
+        "rank": 3,
+        "desc": "Nullifies all elemental blights."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Blindsider",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases the success rate of flash effects."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Bombardier",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Explosive power +10%."
+      },
+      {
+        "rank": 2,
+        "desc": "Explosive power +20%."
+      },
+      {
+        "rank": 3,
+        "desc": "Explosive power +30%."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Botanist",
+    "maxRank": 4,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "One extra consumable herb item per gather."
+      },
+      {
+        "rank": 2,
+        "desc": "One extra consumable herb, fruit, nut, or seed item per gather."
+      },
+      {
+        "rank": 3,
+        "desc": "One extra consumable herb, fruit, nut, seed, or insect item per gather."
+      },
+      {
+        "rank": 4,
+        "desc": "One extra consumable herb, fruit, nut, seed, insect, or mushroom item per gather."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Bow Charge Plus",
+    "maxRank": 1,
+    "gemLevel": 2,
+    "charmRank": 0,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increase Max Bow Charge level by one"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Capacity Boost",
+    "maxRank": 1,
+    "gemLevel": 2,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Loading capacity +1"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Carving Master",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 0,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Lets you carve one additional time (no effect when joining mid-quest"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Carving Pro",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Prevents knockback while carving."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Cliffhanger",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 0,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Reduces stamina depletion while climbing by 25%."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Constitution",
+    "maxRank": 5,
+    "gemLevel": 2,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Reduces fixed stamina depletion by 10%."
+      },
+      {
+        "rank": 2,
+        "desc": "Reduces fixed stamina depletion by 20%."
+      },
+      {
+        "rank": 3,
+        "desc": "Reduces fixed stamina depletion by 30%."
+      },
+      {
+        "rank": 4,
+        "desc": "Reduces fixed stamina depletion by 40%."
+      },
+      {
+        "rank": 5,
+        "desc": "Reduces fixed stamina depletion by 50%."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Critical Boost",
+    "maxRank": 3,
+    "gemLevel": 2,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases damage dealt by critical hits by 30%."
+      },
+      {
+        "rank": 2,
+        "desc": "Increases damage dealt by critical hits by 35%."
+      },
+      {
+        "rank": 3,
+        "desc": "Increases damage dealt by critical hits by 40%."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Critical Draw",
+    "maxRank": 3,
+    "gemLevel": 2,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Draw attack affinity +30%"
+      },
+      {
+        "rank": 2,
+        "desc": "Draw attack affinity +60%"
+      },
+      {
+        "rank": 3,
+        "desc": "Draw attack affinity +100%"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Critical Eye",
+    "maxRank": 7,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Affinity +3%"
+      },
+      {
+        "rank": 2,
+        "desc": "Affinity +6%"
+      },
+      {
+        "rank": 3,
+        "desc": "Affinity +10%"
+      },
+      {
+        "rank": 4,
+        "desc": "Affinity +15%"
+      },
+      {
+        "rank": 5,
+        "desc": "Affinity +20%"
+      },
+      {
+        "rank": 6,
+        "desc": "Affinity +25%"
+      },
+      {
+        "rank": 7,
+        "desc": "Affinity +30%"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Defense Boost",
+    "maxRank": 7,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Defense +5"
+      },
+      {
+        "rank": 2,
+        "desc": "Defense +10"
+      },
+      {
+        "rank": 3,
+        "desc": "Defense +15"
+      },
+      {
+        "rank": 4,
+        "desc": "Defense +20 All Elemental Resistances +3"
+      },
+      {
+        "rank": 5,
+        "desc": "Defense +25 All Elemental Resistances +3"
+      },
+      {
+        "rank": 6,
+        "desc": "Defense +30 All Elemental Resistances +3"
+      },
+      {
+        "rank": 7,
+        "desc": "Defense +35 All Elemental Resistances +3"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Detector",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Marks rare sites on the wildlife map."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Divine Blessing",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "While active, reduces damage taken by 15%."
+      },
+      {
+        "rank": 2,
+        "desc": "While active, reduces damage taken by 30%."
+      },
+      {
+        "rank": 3,
+        "desc": "While active, reduces damage taken by 50%."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Dragon Attack",
+    "maxRank": 5,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Dragon attack +30"
+      },
+      {
+        "rank": 2,
+        "desc": "Dragon attack +60"
+      },
+      {
+        "rank": 3,
+        "desc": "Dragon attack +100"
+      },
+      {
+        "rank": 4,
+        "desc": "Dragon attack +5% Bonus: +100"
+      },
+      {
+        "rank": 5,
+        "desc": "Dragon attack +10% Bonus: +100"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Dragon Resistance",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Dragon resistance +6"
+      },
+      {
+        "rank": 2,
+        "desc": "Dragon resistance +12"
+      },
+      {
+        "rank": 3,
+        "desc": "Dragon resistance +20 Defense +10"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Dungmaster",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Makes slinger dung pods more effective at making monsters run away."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Earplugs",
+    "maxRank": 5,
+    "gemLevel": 3,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Slightly reduces the effects of weak monster roars."
+      },
+      {
+        "rank": 2,
+        "desc": "Reduces the effects of weak monster roars."
+      },
+      {
+        "rank": 3,
+        "desc": "Nullifies weak monster roars."
+      },
+      {
+        "rank": 4,
+        "desc": "Nullifies weak monster roars and reduces the effects of strong monster roars."
+      },
+      {
+        "rank": 5,
+        "desc": "Nullifies weak and strong monster roars."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Effluvia Resistance",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Reduces effluvial buildup."
+      },
+      {
+        "rank": 2,
+        "desc": "Greatly reduces effluvial buildup."
+      },
+      {
+        "rank": 3,
+        "desc": "Prevents effluvial buildup."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Effluvial Expert",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Nullifies damage from effluvia and reduces damage from acids."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Elderseal Boost",
+    "maxRank": 1,
+    "gemLevel": 3,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Unknown"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Entomologist",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases the chances of a corpse being left behind."
+      },
+      {
+        "rank": 2,
+        "desc": "Greatly increases the chances of a corpse being left behind."
+      },
+      {
+        "rank": 3,
+        "desc": "Makes it so corpses will always be left behind."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Evade Extender",
+    "maxRank": 3,
+    "gemLevel": 2,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Slightly extends evasion distance."
+      },
+      {
+        "rank": 2,
+        "desc": "Extends evasion distance."
+      },
+      {
+        "rank": 3,
+        "desc": "Greatly extends evasion distance."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Evade Window",
+    "maxRank": 5,
+    "gemLevel": 2,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Very slightly increases invulnerability window."
+      },
+      {
+        "rank": 2,
+        "desc": "Slightly increases invulnerability window."
+      },
+      {
+        "rank": 3,
+        "desc": "Increases invulnerability window."
+      },
+      {
+        "rank": 4,
+        "desc": "Greatly increases invulnerability window."
+      },
+      {
+        "rank": 5,
+        "desc": "Massively increases invulnerability window."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Fire Attack",
+    "maxRank": 5,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Fire attack +30"
+      },
+      {
+        "rank": 2,
+        "desc": "Fire attack +60"
+      },
+      {
+        "rank": 3,
+        "desc": "Fire attack +100"
+      },
+      {
+        "rank": 4,
+        "desc": "Fire attack +5% Bonus: +100"
+      },
+      {
+        "rank": 5,
+        "desc": "Fire attack +10% Bonus: +100"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Fire Resistance",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Fire resistance +6"
+      },
+      {
+        "rank": 2,
+        "desc": "Fire resistance +12"
+      },
+      {
+        "rank": 3,
+        "desc": "Fire resistance +20 Defense +10"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Flinch Free",
+    "maxRank": 3,
+    "gemLevel": 3,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Prevents knockbacks."
+      },
+      {
+        "rank": 2,
+        "desc": "Prevents standard knockbacks. Tripping is reduced to a knockback instead."
+      },
+      {
+        "rank": 3,
+        "desc": "Prevents knockbacks and tripping."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Focus",
+    "maxRank": 3,
+    "gemLevel": 2,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases gauge fill rate by 5% and reduces charge times by 5%."
+      },
+      {
+        "rank": 2,
+        "desc": "Increases gauge fill rate by 10% and reduces charge times by 10%."
+      },
+      {
+        "rank": 3,
+        "desc": "Increases gauge fill rate by 20% and reduces charge times by 20%."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Forager's Luck",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases the likelihood of rare gathering points respawning."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Fortify",
+    "maxRank": 1,
+    "gemLevel": 1,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases attack by 10% and defense by 15% with each use."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Free Elem/Ammo Up",
+    "maxRank": 3,
+    "gemLevel": 3,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Draws out 33% of hidden element and expands clip size for some ammo."
+      },
+      {
+        "rank": 2,
+        "desc": "Draws out 66% of hidden element and expands clip size for some ammo."
+      },
+      {
+        "rank": 3,
+        "desc": "Draws out 100% of hidden element and expands clip size for some ammo."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Free Meal",
+    "maxRank": 1,
+    "gemLevel": 1,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Activates 25% of the time."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Geologist",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Allows you to gather one extra time from bonepiles."
+      },
+      {
+        "rank": 2,
+        "desc": "Allows you to gather one extra time from bonepiles and special item gathering points."
+      },
+      {
+        "rank": 3,
+        "desc": "Allows you to gather one extra time from bonepiles, special item gathering points, and mining outcrops."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Guard",
+    "maxRank": 5,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Very slightly decreases the impact of attacks."
+      },
+      {
+        "rank": 2,
+        "desc": "Slightly decreases the impact of attacks and recudes stamina depletion by 15%."
+      },
+      {
+        "rank": 3,
+        "desc": "Greatly decreases the impact of attacks and recudes stamina depletion by 15%."
+      },
+      {
+        "rank": 4,
+        "desc": "Greatly decreases the impact of attacks and recudes stamina depletion by 30%."
+      },
+      {
+        "rank": 5,
+        "desc": "Greatly decreases the impact of attacks and recudes stamina depletion by 50%."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Guard Up",
+    "maxRank": 1,
+    "gemLevel": 2,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Allows you to guard against ordinarily unblockable attacks"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Handicraft",
+    "maxRank": 5,
+    "gemLevel": 3,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Weapon sharpness +10"
+      },
+      {
+        "rank": 2,
+        "desc": "Weapon sharpness +20"
+      },
+      {
+        "rank": 3,
+        "desc": "Weapon sharpness +30"
+      },
+      {
+        "rank": 4,
+        "desc": "Weapon sharpness +40"
+      },
+      {
+        "rank": 5,
+        "desc": "Weapon sharpness +50"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Health Boost",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Health +15"
+      },
+      {
+        "rank": 2,
+        "desc": "Health +30"
+      },
+      {
+        "rank": 3,
+        "desc": "Health +50"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Heat Guard",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Nullifies heat damage."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Heavy Artillery",
+    "maxRank": 2,
+    "gemLevel": 1,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Firepower +10%"
+      },
+      {
+        "rank": 2,
+        "desc": "Firepower +20%"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Heroics",
+    "maxRank": 5,
+    "gemLevel": 2,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "While active, increases attack power by 5% and increases defense by 15 points."
+      },
+      {
+        "rank": 2,
+        "desc": "While active, increases attack power by 10% and increases defense by 20 points."
+      },
+      {
+        "rank": 3,
+        "desc": "While active, increases attack power by 15% and increases defense by 25 points."
+      },
+      {
+        "rank": 4,
+        "desc": "While active, increases attack power by 20% and increases defense by 30 points."
+      },
+      {
+        "rank": 5,
+        "desc": "While active, increases attack power by 30% and increases defense by 40 points."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Honey Hunter",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "One extra honey per gather."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Horn Maestro",
+    "maxRank": 1,
+    "gemLevel": 1,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Extends melody effects duration and increases health recovery."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Hunger Resistance",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Extends the time until your stamina cap decreases by 30%."
+      },
+      {
+        "rank": 2,
+        "desc": "Extends the time until your stamina cap decreases by 60%."
+      },
+      {
+        "rank": 3,
+        "desc": "Prevents your stamina cap from decreasing."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Ice Attack",
+    "maxRank": 5,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Ice attack +30"
+      },
+      {
+        "rank": 2,
+        "desc": "Ice attack +60"
+      },
+      {
+        "rank": 3,
+        "desc": "Ice attack +100"
+      },
+      {
+        "rank": 4,
+        "desc": "Ice attack +5% Bonus: +100"
+      },
+      {
+        "rank": 5,
+        "desc": "Ice attack +10% Bonus: +100"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Ice Resistance",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Ice resistance +6"
+      },
+      {
+        "rank": 2,
+        "desc": "Ice resistance +12"
+      },
+      {
+        "rank": 3,
+        "desc": "Ice resistance +20 Defense +10"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Intimidator",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Discourages monsters from engaging you even if you've been spotted."
+      },
+      {
+        "rank": 2,
+        "desc": "Highly discourages monsters from engaging you even if you've been spotted."
+      },
+      {
+        "rank": 3,
+        "desc": "Prevents monsters from engaging you even if you've been spotted."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Iron Skin",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Reduces the duration of Defense Down by 30%."
+      },
+      {
+        "rank": 2,
+        "desc": "Reduces the duration of Defense Down by 60%."
+      },
+      {
+        "rank": 3,
+        "desc": "Prevents Defense Down."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Item Prolonger",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Item effect duration +10%."
+      },
+      {
+        "rank": 2,
+        "desc": "Item effect duration +25%."
+      },
+      {
+        "rank": 3,
+        "desc": "Item effect duration +50%."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Jump Master",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Negates knockback during jumps."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Latent Power",
+    "maxRank": 5,
+    "gemLevel": 2,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "While active, increases affinity by 10% and reduces stamina depletion by 10%."
+      },
+      {
+        "rank": 2,
+        "desc": "While active, increases affinity by 20% and reduces stamina depletion by 10%."
+      },
+      {
+        "rank": 3,
+        "desc": "While active, increases affinity by 30% and reduces stamina depletion by 30%."
+      },
+      {
+        "rank": 4,
+        "desc": "While active, increases affinity by 40% and reduces stamina depletion by 30%."
+      },
+      {
+        "rank": 5,
+        "desc": "While active, increases affinity by 50% and reduces stamina depletion by 50%."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Leap of Faith",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Enables Leap of Faith."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Marathon Runner",
+    "maxRank": 3,
+    "gemLevel": 2,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Reduces continuous stamina depletion by 15%."
+      },
+      {
+        "rank": 2,
+        "desc": "Reduces continuous stamina depletion by 30%."
+      },
+      {
+        "rank": 3,
+        "desc": "Reduces continuous stamina depletion by 50%."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Master Fisher",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 0,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases the time window for reeling in fish, and makes it easier to catch large fish."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Master Gatherer",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Speeds up gathering and prevents knockbacks while gathering."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Master Mounter",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Makes it easier to mount monsters and down mounted monsters."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Maximum Might",
+    "maxRank": 3,
+    "gemLevel": 2,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "While active, increases affinity by 10%."
+      },
+      {
+        "rank": 2,
+        "desc": "While active, increases affinity by 20%."
+      },
+      {
+        "rank": 3,
+        "desc": "While active, increases affinity by 30%."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Mind's Eye/Ballistic",
+    "maxRank": 1,
+    "gemLevel": 2,
+    "charmRank": 0,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "prevents attacks from being deflected and also shortens the distance before ammo and arrows reach maximum power. "
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Muck Resistance",
+    "maxRank": 1,
+    "gemLevel": 1,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Reduces limits on movement speed and evasion."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Mushroomancer",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Lets you digest blue mushrooms and toadstools."
+      },
+      {
+        "rank": 2,
+        "desc": "Additionally lets you digest nitroshrooms and parashrooms."
+      },
+      {
+        "rank": 3,
+        "desc": "Additionally lets you digest mandragoras, devil's blight, and exciteshrooms."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Non-Elemental Boost",
+    "maxRank": 1,
+    "gemLevel": 2,
+    "charmRank": 0,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "powers up non-elemental weapons you have equipped."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Normal Shots",
+    "maxRank": 1,
+    "gemLevel": 3,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases the power of normal ammo and normal arrows."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Palico Rally",
+    "maxRank": 5,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases Palico attack power and defense by 5%."
+      },
+      {
+        "rank": 2,
+        "desc": "Increases Palico attack power and defense by 10%."
+      },
+      {
+        "rank": 3,
+        "desc": "Increases Palico attack power and defense by 15%."
+      },
+      {
+        "rank": 4,
+        "desc": "Increases Palico attack power and defense by 20%."
+      },
+      {
+        "rank": 5,
+        "desc": "Increases Palico attack power and defense by 25%."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Paralysis Attack",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Paralysis buildup +5% Bonus: +10"
+      },
+      {
+        "rank": 2,
+        "desc": "Paralysis buildup +10% Bonus: +10"
+      },
+      {
+        "rank": 3,
+        "desc": "Paralysis buildup +20% Bonus: +10"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Paralysis Functionality",
+    "maxRank": 1,
+    "gemLevel": 3,
+    "charmRank": 0,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Unknown"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Paralysis Resistance",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Reduces the duration of paralysis by 30%."
+      },
+      {
+        "rank": 2,
+        "desc": "Reduces the duration of paralysis by 60%."
+      },
+      {
+        "rank": 3,
+        "desc": "Prevents paralysis."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Partbreaker",
+    "maxRank": 3,
+    "gemLevel": 2,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Part damage +10%"
+      },
+      {
+        "rank": 2,
+        "desc": "Part damage +20%"
+      },
+      {
+        "rank": 3,
+        "desc": "Part damage +30%"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Peak Performance",
+    "maxRank": 3,
+    "gemLevel": 2,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "While active, grants attack +5."
+      },
+      {
+        "rank": 2,
+        "desc": "While active, grants attack +10."
+      },
+      {
+        "rank": 3,
+        "desc": "While active, grants attack +20."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Piercing Shots",
+    "maxRank": 1,
+    "gemLevel": 3,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases the power of piercing ammo and Dragon Piercer."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Poison Attack",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Poison buildup +5% Bonus: +10"
+      },
+      {
+        "rank": 2,
+        "desc": "Poison buildup +10% Bonus: +10"
+      },
+      {
+        "rank": 3,
+        "desc": "Poison buildup +20% Bonus: +10"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Poison Functionality",
+    "maxRank": 1,
+    "gemLevel": 3,
+    "charmRank": 0,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Unknown"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Poison Resistance",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Reduces the duration of poison by 30%."
+      },
+      {
+        "rank": 2,
+        "desc": "Reduces the duration of poison by 60%."
+      },
+      {
+        "rank": 3,
+        "desc": "Prevents poison."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Power Prolonger",
+    "maxRank": 3,
+    "gemLevel": 2,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Bonus duration +10%"
+      },
+      {
+        "rank": 2,
+        "desc": "Bonus duration +20%"
+      },
+      {
+        "rank": 3,
+        "desc": "Bonus duration +30%"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Pro Transporter",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases movement speed while transporting and reduces downtime on landings."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Protective Polish",
+    "maxRank": 1,
+    "gemLevel": 2,
+    "charmRank": 0,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Weapon sharpness does not decrease for a set time after sharpening"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Quick Sheath",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Slightly increases sheathing speed."
+      },
+      {
+        "rank": 2,
+        "desc": "Moderatly increases sheathing speed."
+      },
+      {
+        "rank": 3,
+        "desc": "Greatly increases sheathing speed."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Recovery Speed",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Doubles the speed at which you heal recoverable damage."
+      },
+      {
+        "rank": 2,
+        "desc": "Triples the speed at which you heal recoverable damage."
+      },
+      {
+        "rank": 3,
+        "desc": "Quadruples the speed at which you heal recoverable damage."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Recovery Up",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Recovery +10%"
+      },
+      {
+        "rank": 2,
+        "desc": "Recovery +20%"
+      },
+      {
+        "rank": 3,
+        "desc": "Recovery +30%"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Resentment",
+    "maxRank": 5,
+    "gemLevel": 2,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "While active, grants attack +5."
+      },
+      {
+        "rank": 2,
+        "desc": "While active, grants attack +10."
+      },
+      {
+        "rank": 3,
+        "desc": "While active, grants attack +15."
+      },
+      {
+        "rank": 4,
+        "desc": "While active, grants attack +20."
+      },
+      {
+        "rank": 5,
+        "desc": "While active, grants attack +25."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Resuscitate",
+    "maxRank": 1,
+    "gemLevel": 1,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "While active, greatly improves evasion invulnerability time and reduces stamina depletion."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Scenthound",
+    "maxRank": 1,
+    "gemLevel": 1,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases gauge fill rate by 50%."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Scholar",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Speeds up progress on research levels and special investigations."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Scoutfly Range Up",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Expands your scoutlifes' detection range."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Sleep Attack",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Sleep buildup +5% Bonus: +10"
+      },
+      {
+        "rank": 2,
+        "desc": "Sleep buildup +10% Bonus: +10"
+      },
+      {
+        "rank": 3,
+        "desc": "Sleep buildup +20% Bonus: +10"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Sleep Functionality",
+    "maxRank": 1,
+    "gemLevel": 3,
+    "charmRank": 0,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Unknown"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Sleep Resistance",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Reduces the duration of sleep by 30%."
+      },
+      {
+        "rank": 2,
+        "desc": "Reduces the duration of sleep by 60%."
+      },
+      {
+        "rank": 3,
+        "desc": "Prevents sleep."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Slinger Capacity",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases the loading capacity for slinger ammo collected from the ground or plants."
+      },
+      {
+        "rank": 2,
+        "desc": "In addition, increases the loading capacity for some slinger ammo dropped by monsters."
+      },
+      {
+        "rank": 3,
+        "desc": "In addition, increases the loading capacity for all slinger ammo dropped by monsters."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Slugger",
+    "maxRank": 3,
+    "gemLevel": 2,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Stun power +10%"
+      },
+      {
+        "rank": 2,
+        "desc": "Stun power +20%"
+      },
+      {
+        "rank": 3,
+        "desc": "Stun power +30%"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Special Ammo Boost",
+    "maxRank": 2,
+    "gemLevel": 1,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases the power of bowgun special ammo and Dragon Piercer by 10%."
+      },
+      {
+        "rank": 2,
+        "desc": "Increases the power of bowgun special ammo and Dragon Piercer by 20%."
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Speed Crawler",
+    "maxRank": 1,
+    "gemLevel": 0,
+    "charmRank": 0,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases movement speed while crouching."
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Speed Eating",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Slightly increases item use speed."
+      },
+      {
+        "rank": 2,
+        "desc": "Moderatly increases item use speed."
+      },
+      {
+        "rank": 3,
+        "desc": "Greatly increases item use speed."
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Speed Sharpening",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Removes one cycle from the sharpening process."
+      },
+      {
+        "rank": 2,
+        "desc": "Removes two cycles from the sharpening process."
+      },
+      {
+        "rank": 3,
+        "desc": "Removes three cycles from the sharpening process."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Sporepuff Expert",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Sporepuffs restore 20 health."
+      },
+      {
+        "rank": 2,
+        "desc": "Sporepuffs restore 35 health."
+      },
+      {
+        "rank": 3,
+        "desc": "Sporepuffs restore 60 health."
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Spread/Power Shots",
+    "maxRank": 1,
+    "gemLevel": 3,
+    "charmRank": 1,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Increases the power of spread ammo and power shot arrows."
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Stamina Surge",
+    "maxRank": 3,
+    "gemLevel": 2,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Stamina recovery speed +10%"
+      },
+      {
+        "rank": 2,
+        "desc": "Stamina recovery speed +20%"
+      },
+      {
+        "rank": 3,
+        "desc": "Stamina recovery speed +30%"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Stamina Thief",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Exhaust power +10%"
+      },
+      {
+        "rank": 2,
+        "desc": "Exhaust power +20%"
+      },
+      {
+        "rank": 3,
+        "desc": "Exhaust power +30%"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Stealth",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Makes it slightly easier for monsters to lose sight of you."
+      },
+      {
+        "rank": 2,
+        "desc": "Makes it moderatly easier for monsters to lose sight of you."
+      },
+      {
+        "rank": 3,
+        "desc": "Makes it much easier for monsters to lose sight of you."
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Stun Resistance",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Reduces the duration of stun by 30%."
+      },
+      {
+        "rank": 2,
+        "desc": "Reduces the duration of stun by 60%."
+      },
+      {
+        "rank": 3,
+        "desc": "Prevents stun."
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Thunder Attack",
+    "maxRank": 5,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Thunder attack +30"
+      },
+      {
+        "rank": 2,
+        "desc": "Thunder attack +60"
+      },
+      {
+        "rank": 3,
+        "desc": "Thunder attack +100"
+      },
+      {
+        "rank": 4,
+        "desc": "Thunder attack +5% Bonus: +100"
+      },
+      {
+        "rank": 5,
+        "desc": "Thunder attack +10% Bonus: +100"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Thunder Resistance",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Thunder resistance +6"
+      },
+      {
+        "rank": 2,
+        "desc": "Thunder resistance +12"
+      },
+      {
+        "rank": 3,
+        "desc": "Thunder resistance +20 Defense +10"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Tool Specialist",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Shortens time until reuse by 5%."
+      },
+      {
+        "rank": 2,
+        "desc": "Shortens time until reuse by 10%."
+      },
+      {
+        "rank": 3,
+        "desc": "Shortens time until reuse by 20%."
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Tremor Resistance",
+    "maxRank": 3,
+    "gemLevel": 2,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Nullifies minor ground tremors."
+      },
+      {
+        "rank": 2,
+        "desc": "Nullifies minor ground tremors and reduces the effects of major ground tremors."
+      },
+      {
+        "rank": 3,
+        "desc": "Nullifies minor and major ground tremors."
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Water Attack",
+    "maxRank": 5,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Water attack +30"
+      },
+      {
+        "rank": 2,
+        "desc": "Water attack +60"
+      },
+      {
+        "rank": 3,
+        "desc": "Water attack +100"
+      },
+      {
+        "rank": 4,
+        "desc": "Water attack +5% Bonus: +100"
+      },
+      {
+        "rank": 5,
+        "desc": "Water attack +10% Bonus: +100"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Water Resistance",
+    "maxRank": 3,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Water resistance +6"
+      },
+      {
+        "rank": 2,
+        "desc": "Water resistance +12"
+      },
+      {
+        "rank": 3,
+        "desc": "Water resistance +20 Defense +10"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Weakness Exploit",
+    "maxRank": 3,
+    "gemLevel": 2,
+    "charmRank": 2,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Attacks that hit weak spots have 15% increased affinity."
+      },
+      {
+        "rank": 2,
+        "desc": "Attacks that hit weak spots have 30% increased affinity."
+      },
+      {
+        "rank": 3,
+        "desc": "Attacks that hit weak spots have 50% increased affinity."
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Wide-Range",
+    "maxRank": 5,
+    "gemLevel": 1,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Items affect neabry allies with 33% of their efficacy."
+      },
+      {
+        "rank": 2,
+        "desc": "Items affect neabry allies in a wider radius with 33% of their efficacy."
+      },
+      {
+        "rank": 3,
+        "desc": "Items affect neabry allies in a wider radius with 66% of their efficacy."
+      },
+      {
+        "rank": 4,
+        "desc": "Items affect neabry allies in a much wider radius with 66% of their efficacy."
+      },
+      {
+        "rank": 5,
+        "desc": "Items affect neabry allies in a wider radius with full efficacy."
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Windproof",
+    "maxRank": 5,
+    "gemLevel": 2,
+    "charmRank": 3,
+    "ranks": [
+      {
+        "rank": 1,
+        "desc": "Slightly reduces the effects of minor wind pressure."
+      },
+      {
+        "rank": 2,
+        "desc": "Reduces the effects of minor wind pressure."
+      },
+      {
+        "rank": 3,
+        "desc": "Negates minor wind pressure."
+      },
+      {
+        "rank": 4,
+        "desc": "Negates minor wind pressure and reduces the effects of major wind pressure."
+      },
+      {
+        "rank": 5,
+        "desc": "Negates minor and major wind pressure."
+      }
+    ]
+  }
+]

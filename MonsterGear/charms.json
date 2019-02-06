@@ -1,0 +1,1080 @@
+[
+  {
+    "name": "Gale Charm",
+    "skill1": {
+      "id": 1,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 3,
+      "rank": 1
+    }
+  },
+  {
+    "name": "Challenger Charm II",
+    "skill1": {
+      "id": 2,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Mirewalker Charm III",
+    "skill1": {
+      "id": 4,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Artillery Charm III",
+    "skill1": {
+      "id": 5,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Attack Charm III",
+    "skill1": {
+      "id": 6,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Fair Wind Charm",
+    "skill1": {
+      "id": 6,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 27,
+      "rank": 1
+    }
+  },
+  {
+    "name": "Hunter's Life Charm",
+    "skill1": {
+      "id": 7,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Demolition Charm III",
+    "skill1": {
+      "id": 8,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Blast Charm III",
+    "skill1": {
+      "id": 10,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Bleed Charm III",
+    "skill1": {
+      "id": 11,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Blight Charm III",
+    "skill1": {
+      "id": 12,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Bombardier Charm III",
+    "skill1": {
+      "id": 14,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Botany Charm III",
+    "skill1": {
+      "id": 15,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Capacity Charm",
+    "skill1": {
+      "id": 17,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Fitness Charm III",
+    "skill1": {
+      "id": 21,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Critical Boost",
+    "skill1": {
+      "id": 22,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Draw Charm II",
+    "skill1": {
+      "id": 23,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Master's Charm III",
+    "skill1": {
+      "id": 24,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Defense Charm III",
+    "skill1": {
+      "id": 25,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Blessing Charm III",
+    "skill1": {
+      "id": 27,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Wyrmsbane Charm III",
+    "skill1": {
+      "id": 28,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Dragon Charm III",
+    "skill1": {
+      "id": 29,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Trickshot Charm",
+    "skill1": {
+      "id": 30,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 13,
+      "rank": 1
+    }
+  },
+  {
+    "name": "Earplugs Charm III",
+    "skill1": {
+      "id": 31,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Miasma Charm III",
+    "skill1": {
+      "id": 32,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "WyrmSlayer Charm",
+    "skill1": {
+      "id": 34,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 28,
+      "rank": 1
+    }
+  },
+  {
+    "name": "Insect Charm III",
+    "skill1": {
+      "id": 35,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Leaping Charm II",
+    "skill1": {
+      "id": 36,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Evasion Charm III",
+    "skill1": {
+      "id": 37,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Blaze Charm III",
+    "skill1": {
+      "id": 38,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Fire Charm III",
+    "skill1": {
+      "id": 39,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Impact Charm II",
+    "skill1": {
+      "id": 40,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Focus Charm II",
+    "skill1": {
+      "id": 41,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Geomancy Charm",
+    "skill1": {
+      "id": 42,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 26,
+      "rank": 1
+    }
+  },
+  {
+    "name": "Fortification Charm",
+    "skill1": {
+      "id": 43,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Awakening Charm II",
+    "skill1": {
+      "id": 44,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Light Eater's Charm",
+    "skill1": {
+      "id": 45,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Geology Charm III",
+    "skill1": {
+      "id": 46,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Ironside Charm III",
+    "skill1": {
+      "id": 47,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Bulwark Charm",
+    "skill1": {
+      "id": 48,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 92,
+      "rank": 1
+    }
+  },
+  {
+    "name": "Handicraft Charm III",
+    "skill1": {
+      "id": 49,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Health Charm III",
+    "skill1": {
+      "id": 50,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Clearmind Charm",
+    "skill1": {
+      "id": 51,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 33,
+      "rank": 1
+    }
+  },
+  {
+    "name": "Heavy Artillery Charm II",
+    "skill1": {
+      "id": 52,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Grit Charm II",
+    "skill1": {
+      "id": 53,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Performer's Charm",
+    "skill1": {
+      "id": 55,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Hungerless Charm III",
+    "skill1": {
+      "id": 56,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Frost Charm III",
+    "skill1": {
+      "id": 57,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Ice Charm III",
+    "skill1": {
+      "id": 58,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Intimidator Charm III",
+    "skill1": {
+      "id": 59,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Guard Charm III",
+    "skill1": {
+      "id": 60,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Extension Charm III",
+    "skill1": {
+      "id": 61,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Power Charm II",
+    "skill1": {
+      "id": 63,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Marathon Charm II",
+    "skill1": {
+      "id": 65,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Gatherer's Charm",
+    "skill1": {
+      "id": 67,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 19,
+      "rank": 1
+    }
+  },
+  {
+    "name": "Rider's Charm",
+    "skill1": {
+      "id": 68,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 62,
+      "rank": 1
+    }
+  },
+  {
+    "name": "Mighty Charm II",
+    "skill1": {
+      "id": 69,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Mud Puppy Charm",
+    "skill1": {
+      "id": 71,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 64,
+      "rank": 1
+    }
+  },
+  {
+    "name": "Mushroom Charm II",
+    "skill1": {
+      "id": 72,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Normal Shots Charm",
+    "skill1": {
+      "id": 74,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Rally Charm III",
+    "skill1": {
+      "id": 75,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Immobilize Charm III",
+    "skill1": {
+      "id": 76,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Paralysis Charm III",
+    "skill1": {
+      "id": 78,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Breaker Charm II",
+    "skill1": {
+      "id": 79,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Unscathed Charm II",
+    "skill1": {
+      "id": 80,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Penetration Charm",
+    "skill1": {
+      "id": 81,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Venom Charm III",
+    "skill1": {
+      "id": 82,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Poison Charm III",
+    "skill1": {
+      "id": 84,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Invigorate Charm II",
+    "skill1": {
+      "id": 85,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Procurer's Charm",
+    "skill1": {
+      "id": 86,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 54,
+      "rank": 1
+    }
+  },
+  {
+    "name": "Sheath Charm III",
+    "skill1": {
+      "id": 88,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Speed Heal Charm III",
+    "skill1": {
+      "id": 89,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Recovery Charm III",
+    "skill1": {
+      "id": 90,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Fury Charm II",
+    "skill1": {
+      "id": 91,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Tracker Charm",
+    "skill1": {
+      "id": 93,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Surveyor's Charm",
+    "skill1": {
+      "id": 95,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 94,
+      "rank": 1
+    }
+  },
+  {
+    "name": "Tranq Charm III",
+    "skill1": {
+      "id": 96,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Sleep Charm III",
+    "skill1": {
+      "id": 98,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Slinger Charm III",
+    "skill1": {
+      "id": 99,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "KO Charm III",
+    "skill1": {
+      "id": 100,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Trickshot Charm II",
+    "skill1": {
+      "id": 101,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Glutton's Charm III",
+    "skill1": {
+      "id": 103,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Whetstone Charm III",
+    "skill1": {
+      "id": 104,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Smoke Charm III",
+    "skill1": {
+      "id": 105,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Dispersal Charm",
+    "skill1": {
+      "id": 106,
+      "rank": 1
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Surge Charm II",
+    "skill1": {
+      "id": 107,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Enervate Charm III",
+    "skill1": {
+      "id": 108,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Stealth Charm III",
+    "skill1": {
+      "id": 109,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Stun Charm III",
+    "skill1": {
+      "id": 110,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Shock Charm III",
+    "skill1": {
+      "id": 111,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Thunder Charm III",
+    "skill1": {
+      "id": 112,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Maintenance Charm III",
+    "skill1": {
+      "id": 113,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Tremor Charm II",
+    "skill1": {
+      "id": 114,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Flood Charm III",
+    "skill1": {
+      "id": 115,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Water Charm III",
+    "skill1": {
+      "id": 116,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Exploiter Charm II",
+    "skill1": {
+      "id": 117,
+      "rank": 2
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Friendship Charm III",
+    "skill1": {
+      "id": 118,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  },
+  {
+    "name": "Windproof Charm III",
+    "skill1": {
+      "id": 119,
+      "rank": 3
+    },
+    "skill2": {
+      "id": 0,
+      "rank": 0
+    }
+  }
+]
